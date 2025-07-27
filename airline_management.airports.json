@@ -1,0 +1,143 @@
+[{
+  "_id": {
+    "$oid": "6881eb26e2205a2b7b4d4c27"
+  },
+  "airport_id": "DEL",
+  "name": "Indira Gandhi International Airport",
+  "city": "Delhi",
+  "country": "India",
+  "iata_code": "DEL",
+  "terminals": 3
+},
+{
+  "_id": {
+    "$oid": "6881eb26e2205a2b7b4d4c28"
+  },
+  "airport_id": "BOM",
+  "name": "Chhatrapati Shivaji Maharaj International Airport",
+  "city": "Mumbai",
+  "country": "India",
+  "iata_code": "BOM",
+  "terminals": 2
+},
+{
+  "_id": {
+    "$oid": "6881eb26e2205a2b7b4d4c2d"
+  },
+  "airport_id": "GOI",
+  "name": "Goa International Airport",
+  "city": "Goa",
+  "country": "India",
+  "iata_code": "GOI",
+  "terminals": 1
+},
+{
+  "_id": {
+    "$oid": "6881eb26e2205a2b7b4d4c29"
+  },
+  "airport_id": "BLR",
+  "name": "Kempegowda International Airport",
+  "city": "Bengaluru",
+  "country": "India",
+  "iata_code": "BLR",
+  "terminals": 2
+},
+{
+  "_id": {
+    "$oid": "6881eb26e2205a2b7b4d4c2e"
+  },
+  "airport_id": "PNQ",
+  "name": "Pune Airport",
+  "city": "Pune",
+  "country": "India",
+  "iata_code": "PNQ",
+  "terminals": 1
+},
+{
+  "_id": {
+    "$oid": "6881eb26e2205a2b7b4d4c2a"
+  },
+  "airport_id": "HYD",
+  "name": "Rajiv Gandhi International Airport",
+  "city": "Hyderabad",
+  "country": "India",
+  "iata_code": "HYD",
+  "terminals": 1
+},
+{
+  "_id": {
+    "$oid": "6881eb26e2205a2b7b4d4c2b"
+  },
+  "airport_id": "MAA",
+  "name": "Chennai International Airport",
+  "city": "Chennai",
+  "country": "India",
+  "iata_code": "MAA",
+  "terminals": 2
+},
+{
+  "_id": {
+    "$oid": "6881eb26e2205a2b7b4d4c2c"
+  },
+  "airport_id": "CCU",
+  "name": "Netaji Subhas Chandra Bose International Airport",
+  "city": "Kolkata",
+  "country": "India",
+  "iata_code": "CCU",
+  "terminals": 2
+},
+{
+  "_id": {
+    "$oid": "6881ef9acfb2fcaa6eb6d3a0"
+  },
+  "airport_id": "TRV",
+  "name": "Trivandrum International Airport",
+  "city": "Thiruvananthapuram",
+  "country": "India",
+  "iata_code": "TRV",
+  "terminals": 2
+},
+{
+  "_id": {
+    "$oid": "6881ef9acfb2fcaa6eb6d3a2"
+  },
+  "airport_id": "LKO",
+  "name": "Chaudhary Charan Singh International Airport",
+  "city": "Lucknow",
+  "country": "India",
+  "iata_code": "LKO",
+  "terminals": 2
+},
+{
+  "_id": {
+    "$oid": "6881ef9acfb2fcaa6eb6d39f"
+  },
+  "airport_id": "AMD",
+  "name": "Sardar Vallabhbhai Patel International Airport",
+  "city": "Ahmedabad",
+  "country": "India",
+  "iata_code": "AMD",
+  "terminals": 2
+},
+{
+  "_id": {
+    "$oid": "6881ef9acfb2fcaa6eb6d3a1"
+  },
+  "airport_id": "IXC",
+  "name": "Chandigarh Airport",
+  "city": "Chandigarh",
+  "country": "India",
+  "iata_code": "IXC",
+  "terminals": 1
+},
+{
+  "_id": {
+    "$oid": "68850d99b8c7f45e65a5a9ce"
+  },
+  "airport_id": "BOM",
+  "name": "Chhatrapati Shivaji Maharaj International Airport",
+  "city": "Mumbai",
+  "country": "India",
+  "iata_code": "BOM",
+  "terminals": 2
+}]

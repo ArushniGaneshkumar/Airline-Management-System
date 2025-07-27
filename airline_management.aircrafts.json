@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "6881eaf2e2205a2b7b4d4c1d"
+  },
+  "aircraft_id": "AC001",
+  "model": "Airbus A320",
+  "capacity": 180,
+  "manufacturer": "Airbus",
+  "status": "Active"
+},
+{
+  "_id": {
+    "$oid": "6881eaf2e2205a2b7b4d4c1e"
+  },
+  "aircraft_id": "AC002",
+  "model": "Boeing 737",
+  "capacity": 160,
+  "manufacturer": "Boeing",
+  "status": "Active"
+},
+{
+  "_id": {
+    "$oid": "6881eaf2e2205a2b7b4d4c1f"
+  },
+  "aircraft_id": "AC003",
+  "model": "Airbus A321neo",
+  "capacity": 206,
+  "manufacturer": "Airbus",
+  "status": "Under Maintenance"
+},
+{
+  "_id": {
+    "$oid": "6881eaf2e2205a2b7b4d4c20"
+  },
+  "aircraft_id": "AC004",
+  "model": "Boeing 787 Dreamliner",
+  "capacity": 242,
+  "manufacturer": "Boeing",
+  "status": "Active"
+},
+{
+  "_id": {
+    "$oid": "6881eaf2e2205a2b7b4d4c21"
+  },
+  "aircraft_id": "AC005",
+  "model": "ATR 72",
+  "capacity": 70,
+  "manufacturer": "ATR",
+  "status": "Active"
+},
+{
+  "_id": {
+    "$oid": "6881eaf2e2205a2b7b4d4c22"
+  },
+  "aircraft_id": "AC006",
+  "model": "Embraer E190",
+  "capacity": 114,
+  "manufacturer": "Embraer",
+  "status": "Inactive"
+},
+{
+  "_id": {
+    "$oid": "6881eaf2e2205a2b7b4d4c23"
+  },
+  "aircraft_id": "AC007",
+  "model": "Boeing 777",
+  "capacity": 396,
+  "manufacturer": "Boeing",
+  "status": "Active"
+},
+{
+  "_id": {
+    "$oid": "6881eaf2e2205a2b7b4d4c24"
+  },
+  "aircraft_id": "AC008",
+  "model": "Airbus A350",
+  "capacity": 325,
+  "manufacturer": "Airbus",
+  "status": "Active"
+},
+{
+  "_id": {
+    "$oid": "6881ef67cfb2fcaa6eb6d399"
+  },
+  "aircraft_id": "AC009",
+  "model": "Boeing 747",
+  "capacity": 410,
+  "manufacturer": "Boeing",
+  "status": "Active"
+},
+{
+  "_id": {
+    "$oid": "6881ef67cfb2fcaa6eb6d39a"
+  },
+  "aircraft_id": "AC010",
+  "model": "Airbus A330",
+  "capacity": 278,
+  "manufacturer": "Airbus",
+  "status": "Under Maintenance"
+},
+{
+  "_id": {
+    "$oid": "6881ef67cfb2fcaa6eb6d39b"
+  },
+  "aircraft_id": "AC011",
+  "model": "Embraer E175",
+  "capacity": 88,
+  "manufacturer": "Embraer",
+  "status": "Inactive"
+},
+{
+  "_id": {
+    "$oid": "6881ef67cfb2fcaa6eb6d39c"
+  },
+  "aircraft_id": "AC012",
+  "model": "Bombardier Q400",
+  "capacity": 78,
+  "manufacturer": "Bombardier",
+  "status": "Active"
+}]

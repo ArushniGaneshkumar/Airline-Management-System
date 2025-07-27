@@ -1,0 +1,162 @@
+[{
+  "_id": {
+    "$oid": "6881eb44e2205a2b7b4d4c31"
+  },
+  "booking_id": "B001",
+  "flight_id": "F001",
+  "passenger_id": "P001",
+  "seat_no": "12A",
+  "class": "Economy",
+  "status": "Confirmed",
+  "price": 4200
+},
+{
+  "_id": {
+    "$oid": "6881eb44e2205a2b7b4d4c35"
+  },
+  "booking_id": "B005",
+  "flight_id": "F005",
+  "passenger_id": "P005",
+  "seat_no": "20E",
+  "class": "Economy",
+  "status": "Cancelled",
+  "price": 3000
+},
+{
+  "_id": {
+    "$oid": "6881eb44e2205a2b7b4d4c37"
+  },
+  "booking_id": "B007",
+  "flight_id": "F007",
+  "passenger_id": "P007",
+  "seat_no": "15F",
+  "class": "Economy",
+  "status": "Confirmed",
+  "price": 3900
+},
+{
+  "_id": {
+    "$oid": "6881eb44e2205a2b7b4d4c38"
+  },
+  "booking_id": "B008",
+  "flight_id": "F008",
+  "passenger_id": "P008",
+  "seat_no": "3D",
+  "class": "Business",
+  "status": "Confirmed",
+  "price": 13500
+},
+{
+  "_id": {
+    "$oid": "6881eb44e2205a2b7b4d4c36"
+  },
+  "booking_id": "B006",
+  "flight_id": "F006",
+  "passenger_id": "P006",
+  "seat_no": "6B",
+  "class": "Economy",
+  "status": "Confirmed",
+  "price": 4100
+},
+{
+  "_id": {
+    "$oid": "6881eb44e2205a2b7b4d4c32"
+  },
+  "booking_id": "B002",
+  "flight_id": "F002",
+  "passenger_id": "P002",
+  "seat_no": "2C",
+  "class": "Business",
+  "status": "Confirmed",
+  "price": 15000
+},
+{
+  "_id": {
+    "$oid": "6881eb44e2205a2b7b4d4c34"
+  },
+  "booking_id": "B004",
+  "flight_id": "F004",
+  "passenger_id": "P004",
+  "seat_no": "1A",
+  "class": "First",
+  "status": "Confirmed",
+  "price": 25000
+},
+{
+  "_id": {
+    "$oid": "6881eb44e2205a2b7b4d4c33"
+  },
+  "booking_id": "B003",
+  "flight_id": "F003",
+  "passenger_id": "P003",
+  "seat_no": "10D",
+  "class": "Economy",
+  "status": "Pending",
+  "price": 3900
+},
+{
+  "_id": {
+    "$oid": "6881efadcfb2fcaa6eb6d3a5"
+  },
+  "booking_id": "B009",
+  "flight_id": "F009",
+  "passenger_id": "P009",
+  "seat_no": "8A",
+  "class": "Economy",
+  "status": "Confirmed",
+  "price": 4500
+},
+{
+  "_id": {
+    "$oid": "6881efadcfb2fcaa6eb6d3a6"
+  },
+  "booking_id": "B010",
+  "flight_id": "F010",
+  "passenger_id": "P010",
+  "seat_no": "4D",
+  "class": "Business",
+  "status": "Confirmed",
+  "price": 16500
+},
+{
+  "_id": {
+    "$oid": "6881efadcfb2fcaa6eb6d3a7"
+  },
+  "booking_id": "B011",
+  "flight_id": "F011",
+  "passenger_id": "P011",
+  "seat_no": "18B",
+  "class": "Economy",
+  "status": "Cancelled",
+  "price": 3100
+},
+{
+  "_id": {
+    "$oid": "6881efadcfb2fcaa6eb6d3a8"
+  },
+  "booking_id": "B012",
+  "flight_id": "F012",
+  "passenger_id": "P012",
+  "seat_no": "9C",
+  "class": "Economy",
+  "status": "Confirmed",
+  "price": 4100
+},
+{
+  "_id": {
+    "$oid": "68850de8b8c7f45e65a5a9d1"
+  },
+  "booking_id": "BK1001",
+  "passenger_id": {
+    "$oid": "6881f1c9cfb2fcaa6eb6d501"
+  },
+  "flight_id": {
+    "$oid": "68812c05962b0e15adfd0e14"
+  },
+  "seat_number": "12A",
+  "booking_date": {
+    "$date": "2025-07-26T09:30:00.000Z"
+  },
+  "status": "confirmed",
+  "payment_status": "paid"
+}]

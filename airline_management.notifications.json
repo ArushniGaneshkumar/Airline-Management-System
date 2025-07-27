@@ -1,0 +1,147 @@
+[{
+  "_id": {
+    "$oid": "6881ebbbe2205a2b7b4d4c5a"
+  },
+  "notification_id": "N001",
+  "passenger_id": "P001",
+  "flight_id": "F001",
+  "message": "Your flight F001 is scheduled. Check-in starts 2 hours before departure.",
+  "timestamp": "2025-08-09T08:00:00Z",
+  "type": "Reminder"
+},
+{
+  "_id": {
+    "$oid": "6881ebbbe2205a2b7b4d4c5f"
+  },
+  "notification_id": "N006",
+  "passenger_id": "P006",
+  "flight_id": "F006",
+  "message": "Gate changed for F006. New gate: 5B.",
+  "timestamp": "2025-08-15T07:30:00Z",
+  "type": "Gate Change"
+},
+{
+  "_id": {
+    "$oid": "6881ebbbe2205a2b7b4d4c5d"
+  },
+  "notification_id": "N004",
+  "passenger_id": "P004",
+  "flight_id": "F004",
+  "message": "Boarding pass ready for flight F004.",
+  "timestamp": "2025-08-13T04:00:00Z",
+  "type": "Check-in"
+},
+{
+  "_id": {
+    "$oid": "6881ebbbe2205a2b7b4d4c61"
+  },
+  "notification_id": "N008",
+  "passenger_id": "P008",
+  "flight_id": "F008",
+  "message": "Thank you for flying with us. Share your feedback!",
+  "timestamp": "2025-08-18T01:00:00Z",
+  "type": "Feedback"
+},
+{
+  "_id": {
+    "$oid": "6881ebbbe2205a2b7b4d4c5b"
+  },
+  "notification_id": "N002",
+  "passenger_id": "P002",
+  "flight_id": "F002",
+  "message": "Flight F002 is on time. Boarding begins at 1:15 PM.",
+  "timestamp": "2025-08-11T08:00:00Z",
+  "type": "Update"
+},
+{
+  "_id": {
+    "$oid": "6881ebbbe2205a2b7b4d4c5c"
+  },
+  "notification_id": "N003",
+  "passenger_id": "P003",
+  "flight_id": "F003",
+  "message": "F003 delayed by 45 minutes. We apologize for the inconvenience.",
+  "timestamp": "2025-08-12T06:00:00Z",
+  "type": "Alert"
+},
+{
+  "_id": {
+    "$oid": "6881ebbbe2205a2b7b4d4c5e"
+  },
+  "notification_id": "N005",
+  "passenger_id": "P005",
+  "flight_id": "F005",
+  "message": "Flight F005 has been cancelled. Please contact support.",
+  "timestamp": "2025-08-14T16:00:00Z",
+  "type": "Cancellation"
+},
+{
+  "_id": {
+    "$oid": "6881ebbbe2205a2b7b4d4c60"
+  },
+  "notification_id": "N007",
+  "passenger_id": "P007",
+  "flight_id": "F007",
+  "message": "Your seat has been upgraded for F007.",
+  "timestamp": "2025-08-16T12:00:00Z",
+  "type": "Upgrade"
+},
+{
+  "_id": {
+    "$oid": "6881f024cfb2fcaa6eb6d3c0"
+  },
+  "notification_id": "N012",
+  "passenger_id": "P012",
+  "flight_id": "F012",
+  "message": "Flight F012 confirmed. Thank you for choosing us.",
+  "timestamp": "2025-08-21T06:00:00Z",
+  "type": "Confirmation"
+},
+{
+  "_id": {
+    "$oid": "6881f024cfb2fcaa6eb6d3bd"
+  },
+  "notification_id": "N009",
+  "passenger_id": "P009",
+  "flight_id": "F009",
+  "message": "Check-in for F009 is now available. Please proceed online.",
+  "timestamp": "2025-08-17T10:00:00Z",
+  "type": "Check-in"
+},
+{
+  "_id": {
+    "$oid": "6881f024cfb2fcaa6eb6d3be"
+  },
+  "notification_id": "N010",
+  "passenger_id": "P010",
+  "flight_id": "F010",
+  "message": "Flight F010 is on time. Boarding starts at 12:45 PM.",
+  "timestamp": "2025-08-19T10:00:00Z",
+  "type": "Reminder"
+},
+{
+  "_id": {
+    "$oid": "6881f024cfb2fcaa6eb6d3bf"
+  },
+  "notification_id": "N011",
+  "passenger_id": "P011",
+  "flight_id": "F011",
+  "message": "Flight F011 delayed. New departure: 07:45 AM.",
+  "timestamp": "2025-08-20T05:30:00Z",
+  "type": "Alert"
+},
+{
+  "_id": {
+    "$oid": "68850e77b8c7f45e65a5a9da"
+  },
+  "notification_id": "NTF001",
+  "recipient_type": "passenger",
+  "recipient_id": {
+    "$oid": "6881f1c9cfb2fcaa6eb6d501"
+  },
+  "message": "Your flight AI202 is delayed by 30 minutes due to weather conditions.",
+  "timestamp": {
+    "$date": "2025-08-01T07:00:00.000Z"
+  },
+  "status": "sent"
+}]

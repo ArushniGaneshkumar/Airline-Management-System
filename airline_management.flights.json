@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "68812c05962b0e15adfd0e14"
+  },
+  "flightNumber": "AI202",
+  "airline": "Air India",
+  "source": "Delhi",
+  "destination": "Mumbai",
+  "departure": {
+    "$date": "2025-08-01T10:00:00.000Z"
+  },
+  "arrival": {
+    "$date": "2025-08-01T12:30:00.000Z"
+  },
+  "aircraftId": {
+    "$oid": "68812bb0962b0e15adfd0e0f"
+  },
+  "status": "delayed"
+}]

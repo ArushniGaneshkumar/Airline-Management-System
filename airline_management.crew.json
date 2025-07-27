@@ -1,0 +1,146 @@
+[{
+  "_id": {
+    "$oid": "6881eb82e2205a2b7b4d4c47"
+  },
+  "crew_id": "CR003",
+  "name": "Captain Shruti Menon",
+  "role": "Pilot",
+  "assigned_flight": "F002",
+  "experience_years": 10,
+  "status": "Available"
+},
+{
+  "_id": {
+    "$oid": "6881eb82e2205a2b7b4d4c45"
+  },
+  "crew_id": "CR001",
+  "name": "Captain Arjun Reddy",
+  "role": "Pilot",
+  "assigned_flight": "F001",
+  "experience_years": 12,
+  "status": "On Duty"
+},
+{
+  "_id": {
+    "$oid": "6881eb82e2205a2b7b4d4c48"
+  },
+  "crew_id": "CR004",
+  "name": "Raj Malhotra",
+  "role": "Flight Attendant",
+  "assigned_flight": "F002",
+  "experience_years": 7,
+  "status": "Available"
+},
+{
+  "_id": {
+    "$oid": "6881eb82e2205a2b7b4d4c4a"
+  },
+  "crew_id": "CR006",
+  "name": "Divya Das",
+  "role": "Flight Attendant",
+  "assigned_flight": "F004",
+  "experience_years": 4,
+  "status": "On Duty"
+},
+{
+  "_id": {
+    "$oid": "6881eb82e2205a2b7b4d4c4b"
+  },
+  "crew_id": "CR007",
+  "name": "Captain Farhan Khan",
+  "role": "Pilot",
+  "assigned_flight": "F005",
+  "experience_years": 9,
+  "status": "Resting"
+},
+{
+  "_id": {
+    "$oid": "6881eb82e2205a2b7b4d4c46"
+  },
+  "crew_id": "CR002",
+  "name": "Meera Sinha",
+  "role": "Flight Attendant",
+  "assigned_flight": "F001",
+  "experience_years": 5,
+  "status": "On Duty"
+},
+{
+  "_id": {
+    "$oid": "6881eb82e2205a2b7b4d4c49"
+  },
+  "crew_id": "CR005",
+  "name": "Captain Karan Joshi",
+  "role": "Pilot",
+  "assigned_flight": "F003",
+  "experience_years": 8,
+  "status": "On Duty"
+},
+{
+  "_id": {
+    "$oid": "6881eb82e2205a2b7b4d4c4c"
+  },
+  "crew_id": "CR008",
+  "name": "Nikita Rao",
+  "role": "Flight Attendant",
+  "assigned_flight": "F006",
+  "experience_years": 3,
+  "status": "Available"
+},
+{
+  "_id": {
+    "$oid": "6881efcecfb2fcaa6eb6d3b2"
+  },
+  "crew_id": "CR010",
+  "name": "Captain Mohan Suri",
+  "role": "Pilot",
+  "assigned_flight": "F010",
+  "experience_years": 14,
+  "status": "Available"
+},
+{
+  "_id": {
+    "$oid": "6881efcecfb2fcaa6eb6d3b3"
+  },
+  "crew_id": "CR011",
+  "name": "Anil Rao",
+  "role": "Flight Attendant",
+  "assigned_flight": "F011",
+  "experience_years": 4,
+  "status": "Resting"
+},
+{
+  "_id": {
+    "$oid": "6881efcecfb2fcaa6eb6d3b4"
+  },
+  "crew_id": "CR012",
+  "name": "Captain Zoya Sheikh",
+  "role": "Pilot",
+  "assigned_flight": "F012",
+  "experience_years": 9,
+  "status": "On Duty"
+},
+{
+  "_id": {
+    "$oid": "6881efcecfb2fcaa6eb6d3b1"
+  },
+  "crew_id": "CR009",
+  "name": "Ayesha Kapoor",
+  "role": "Flight Attendant",
+  "assigned_flight": "F009",
+  "experience_years": 6,
+  "status": "On Duty"
+},
+{
+  "_id": {
+    "$oid": "68850e4fb8c7f45e65a5a9d7"
+  },
+  "crew_id": "CRW001",
+  "name": "Captain Arjun Mehra",
+  "role": "Pilot",
+  "employee_id": "EMP1001",
+  "assigned_flight_id": {
+    "$oid": "68812c05962b0e15adfd0e14"
+  },
+  "license_number": "IN-PILOT-7890",
+  "status": "on duty"
+}]

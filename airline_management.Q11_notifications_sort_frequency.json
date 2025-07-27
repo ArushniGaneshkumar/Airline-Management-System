@@ -1,0 +1,12 @@
+[{
+  "total": 2,
+  "type": "Reminder"
+},
+{
+  "total": 2,
+  "type": "Alert"
+},
+{
+  "total": 2,
+  "type": "Check-in"
+}]

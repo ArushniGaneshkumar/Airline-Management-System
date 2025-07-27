@@ -1,0 +1,36 @@
+[{
+  "booking_id": "B004",
+  "price": 25000
+},
+{
+  "booking_id": "B010",
+  "price": 16500
+},
+{
+  "booking_id": "B002",
+  "price": 15000
+},
+{
+  "booking_id": "B008",
+  "price": 13500
+},
+{
+  "booking_id": "B009",
+  "price": 4500
+},
+{
+  "booking_id": "B001",
+  "price": 4200
+},
+{
+  "booking_id": "B006",
+  "price": 4100
+},
+{
+  "booking_id": "B012",
+  "price": 4100
+},
+{
+  "booking_id": "B007",
+  "price": 3900
+}]

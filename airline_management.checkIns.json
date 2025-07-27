@@ -1,0 +1,151 @@
+[{
+  "_id": {
+    "$oid": "6881eb60e2205a2b7b4d4c3d"
+  },
+  "checkin_id": "C003",
+  "booking_id": "B003",
+  "passenger_id": "P003",
+  "flight_id": "F003",
+  "checkin_time": "2025-08-12T06:15:00Z",
+  "boarding_pass": "BP003"
+},
+{
+  "_id": {
+    "$oid": "6881eb60e2205a2b7b4d4c42"
+  },
+  "checkin_id": "C008",
+  "booking_id": "B008",
+  "passenger_id": "P008",
+  "flight_id": "F008",
+  "checkin_time": "2025-08-17T07:00:00Z",
+  "boarding_pass": "BP008"
+},
+{
+  "_id": {
+    "$oid": "6881eb60e2205a2b7b4d4c41"
+  },
+  "checkin_id": "C007",
+  "booking_id": "B007",
+  "passenger_id": "P007",
+  "flight_id": "F007",
+  "checkin_time": "2025-08-16T04:30:00Z",
+  "boarding_pass": "BP007"
+},
+{
+  "_id": {
+    "$oid": "6881eb60e2205a2b7b4d4c3b"
+  },
+  "checkin_id": "C001",
+  "booking_id": "B001",
+  "passenger_id": "P001",
+  "flight_id": "F001",
+  "checkin_time": "2025-08-10T07:00:00Z",
+  "boarding_pass": "BP001"
+},
+{
+  "_id": {
+    "$oid": "6881eb60e2205a2b7b4d4c3f"
+  },
+  "checkin_id": "C005",
+  "booking_id": "B005",
+  "passenger_id": "P005",
+  "flight_id": "F005",
+  "checkin_time": "2025-08-14T08:00:00Z",
+  "boarding_pass": "BP005"
+},
+{
+  "_id": {
+    "$oid": "6881eb60e2205a2b7b4d4c3e"
+  },
+  "checkin_id": "C004",
+  "booking_id": "B004",
+  "passenger_id": "P004",
+  "flight_id": "F004",
+  "checkin_time": "2025-08-13T11:45:00Z",
+  "boarding_pass": "BP004"
+},
+{
+  "_id": {
+    "$oid": "6881eb60e2205a2b7b4d4c40"
+  },
+  "checkin_id": "C006",
+  "booking_id": "B006",
+  "passenger_id": "P006",
+  "flight_id": "F006",
+  "checkin_time": "2025-08-15T05:45:00Z",
+  "boarding_pass": "BP006"
+},
+{
+  "_id": {
+    "$oid": "6881eb60e2205a2b7b4d4c3c"
+  },
+  "checkin_id": "C002",
+  "booking_id": "B002",
+  "passenger_id": "P002",
+  "flight_id": "F002",
+  "checkin_time": "2025-08-11T09:30:00Z",
+  "boarding_pass": "BP002"
+},
+{
+  "_id": {
+    "$oid": "6881efbdcfb2fcaa6eb6d3ae"
+  },
+  "checkin_id": "C012",
+  "booking_id": "B012",
+  "passenger_id": "P012",
+  "flight_id": "F012",
+  "checkin_time": "2025-08-21T06:45:00Z",
+  "boarding_pass": "BP012"
+},
+{
+  "_id": {
+    "$oid": "6881efbdcfb2fcaa6eb6d3ab"
+  },
+  "checkin_id": "C009",
+  "booking_id": "B009",
+  "passenger_id": "P009",
+  "flight_id": "F009",
+  "checkin_time": "2025-08-18T07:15:00Z",
+  "boarding_pass": "BP009"
+},
+{
+  "_id": {
+    "$oid": "6881efbdcfb2fcaa6eb6d3ac"
+  },
+  "checkin_id": "C010",
+  "booking_id": "B010",
+  "passenger_id": "P010",
+  "flight_id": "F010",
+  "checkin_time": "2025-08-19T09:00:00Z",
+  "boarding_pass": "BP010"
+},
+{
+  "_id": {
+    "$oid": "6881efbdcfb2fcaa6eb6d3ad"
+  },
+  "checkin_id": "C011",
+  "booking_id": "B011",
+  "passenger_id": "P011",
+  "flight_id": "F011",
+  "checkin_time": "2025-08-20T05:30:00Z",
+  "boarding_pass": "BP011"
+},
+{
+  "_id": {
+    "$oid": "68850e16b8c7f45e65a5a9d4"
+  },
+  "checkin_id": "CI1001",
+  "booking_id": "BK1001",
+  "passenger_id": {
+    "$oid": "6881f1c9cfb2fcaa6eb6d501"
+  },
+  "flight_id": {
+    "$oid": "68812c05962b0e15adfd0e14"
+  },
+  "checkin_time": {
+    "$date": "2025-08-01T08:30:00.000Z"
+  },
+  "baggage_count": 1,
+  "seat_number": "12A",
+  "status": "checked-in"
+}]

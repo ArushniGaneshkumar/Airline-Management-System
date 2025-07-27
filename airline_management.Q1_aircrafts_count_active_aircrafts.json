@@ -1,0 +1,20 @@
+[{
+  "avg_capacity": 302,
+  "total": 4,
+  "manufacturer": "Boeing"
+},
+{
+  "avg_capacity": 252.5,
+  "total": 2,
+  "manufacturer": "Airbus"
+},
+{
+  "avg_capacity": 78,
+  "total": 2,
+  "manufacturer": "Bombardier"
+},
+{
+  "avg_capacity": 70,
+  "total": 1,
+  "manufacturer": "ATR"
+}]
